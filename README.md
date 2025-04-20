@@ -23,7 +23,7 @@ CSS3 (Flexbox, gradients, backdrop-filter)
 No installation required - just clone the repository and open index.html in your browser.
 
 bash
-git clone https://github.com/your-username/login-page.git
+git clone https://github.com/alishojaeix/login-page.git
 cd login-page
 File Structure
 ├── css/
